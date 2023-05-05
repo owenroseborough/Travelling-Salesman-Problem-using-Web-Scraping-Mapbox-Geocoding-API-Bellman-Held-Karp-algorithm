@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem-using-Web-Scraping-Mapbox-Geocoding-API-Bellman-Held-Karp-algorithm
-Travelling Salesman Problem with Python, Selenium Web Scraping, Mapbox Geocoding API, and Dijkstra's algorithm
+Travelling Salesman Problem with Python, Selenium Web Scraping, Mapbox Geocoding API, and Bellman–Held–Karp algorithm
 
 Implementation of Heldman-Karp algorithm for the travelling salesman problem in the context of all the houses for sale in London, Ontario.
 
